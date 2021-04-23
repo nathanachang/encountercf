@@ -1,0 +1,33 @@
+.purpose {    
+    font-family: "Raleway";   
+    flex-direction: column;
+}
+
+.purpose h1 {    
+    margin-top: 20vh;
+    width: 100vw;
+    height: 50px;
+}
+
+.purpose p {
+    margin-top: 5vh;
+    margin-left: 20vw;
+    width: 60vw;
+}
+
+.purpose img {
+    width: 100%;
+}
+
+.purposeimage {
+    display: inline-block;
+    width: 17.5vw;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+.imagedisplay {
+    margin-left: 14vw;
+    display: flex;
+    flex-direction: row;
+}
